@@ -7,4 +7,8 @@ tasks:
       make help
 vscode:
   extensions:
-    - ms-vscode.cpptools
+    - llvm-vs-code-extensions.vscode-clangd
+    - twxs.cmake
+    - cheshirekow.cmake-format
+    - formulahendry.code-runner
+
